@@ -7,16 +7,16 @@ Estrutura de pastas e arquivos:
 
 
 concessionaria_multimarcas
-   |__broken_database_1.js
-   |__broken_database_2.js
-   |__functions.js
-   |__database_certa_1.js
-   |__database_certa_2.js
+   -broken_database_1.js
+   -broken_database_2.js
+   -functions.js
+   -database_certa_1.js
+   -database_certa_2.js
 -----------------------------
- |__Tabela Resultante Unificada.csv
- |__Relatório de vendas.pdf 
- |__Explicacao dos codigos SQL e Functions.js.pdf
- |__Relatório de Vendas da Concessionária Multimarcas.pdf
+-Tabela Resultante Unificada.csv
+-Relatório de vendas.pdf 
+-Explicacao dos codigos SQL e Functions.js.pdf
+-Relatório de Vendas da Concessionária Multimarcas.pdf
  
 
 
